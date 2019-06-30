@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\bin\Debug\DownloadWithWebApp.exe.config
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\bin\Debug\DownloadWithWebApp.exe
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\bin\Debug\DownloadWithWebApp.pdb
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp_MarkupCompile.cache
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp_MarkupCompile.lref
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.g.resources
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.Properties.Resources.resources
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.exe
+C:\Users\denis\source\repos\DownloadWithWebApp\DownloadWithWebApp\obj\Debug\DownloadWithWebApp.pdb
